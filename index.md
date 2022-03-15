@@ -2,6 +2,7 @@
 ![my_meme](https://user-images.githubusercontent.com/90770644/158389832-b55438eb-8116-4771-b950-aa7fb0f774ed.png)
 
 *This bear on the left hand is the character from the geme "Genshin Impact" called "Guoba"*
+
 ## Here is the R code
 
 ```r
@@ -72,3 +73,10 @@ image_write(meme, "my_meme.png")
     - Now I am in third year, these courses really freak me out! 😭
 2. I really like the character "Guoba" from genshin, So I decided Let him express my feelings in this meme'
 3. I add the noise effect and let the color of the text be red in third row to show my panic and irritable feelings. 
+
+
+### The original meme
+![](https://i.pinimg.com/736x/fc/8a/f5/fc8af55a8765bf210af540f9a7f62deb.jpg)
+![](https://static.wikia.nocookie.net/d820d769-61ed-4e73-9a90-4bb41db7ab5b/scale-to-width/755)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVsIHN7UxuxlU6NyRREOtyZJ_7OVruvHeZQ&usqp=CAU)
