@@ -1,7 +1,7 @@
 # This is the meme I made by using [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Installing_magick) package in R
 ![my_meme](https://user-images.githubusercontent.com/90770644/158389832-b55438eb-8116-4771-b950-aa7fb0f774ed.png)
 
-*This bear on the left hand is the character from the geme "Genshin Impact" called "Guoba"*
+*This bear on the left hand is the character from the geme **"Genshin Impact"** called **"Guoba"***
 
 ## Here is the R code
 
@@ -71,9 +71,10 @@ image_write(meme, "my_meme.png")
     - The first year is very fun! We did a lot of interesting programs with Python which is chilllll 🙌
     - The second year became a little hard than previous year, java synatx is difficult than python 😱
     - Now I am in third year, these courses really freak me out! 😭
-2. I really like the character "Guoba" from genshin, So I decided Let him express my feelings in this meme'
+2. I really like the character "Guoba" from genshin, So I decided to let him express my feelings in this meme
 3. I add the noise effect and let the color of the text be red in third row to show my panic and irritable feelings. 
 
+**Hope you can get  my feelings from this meme!**
 
 ### The original meme
 ![](https://i.pinimg.com/736x/fc/8a/f5/fc8af55a8765bf210af540f9a7f62deb.jpg)
